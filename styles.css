@@ -1,0 +1,44 @@
+.jm1{
+    background-image: url(images/wall1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:white;
+    padding: 250px 20px;
+    
+
+}
+.grid{
+    background: rgb(121,9,81);
+background: linear-gradient(90deg, rgba(121,9,81,1) 35%, rgba(255,0,48,1) 100%);
+    color: white;
+    text-align:center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+ 
+   
+
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.card:hover {
+    box-shadow: 5px 5px 5px 5px #888888;
+}
+.foot1{
+    text-align: center;
+    text-decoration: none;
+    
+    padding: 40px 20px;
+}
+.foot1 li {
+list-style: none;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
